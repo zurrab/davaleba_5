@@ -1,0 +1,47 @@
+.container{
+    background-color: #DCDCDC;
+    width: 777px;
+    height: 311px;
+    border-radius: 20px;
+    display: flex;
+    padding: 20px;
+    margin: 50px 20px;
+
+}
+.picture{
+    padding-top: 63px;
+    width: 237.95px;
+    height: 184.57px;
+}
+.text{
+    margin-top: 63px;
+}
+.hr {
+    width: 100%;
+    margin: 80px auto;
+}
+.read {
+    text-align: right;
+    color:#5076FF;
+    margin-top: 60px;
+
+}
+
+
+
+
+
+.second {
+    margin-left: auto;
+    width: 777px;
+    margin-right: 57px;
+}
+.container1{
+    background-color: #FFFFFF;
+    width: 777px;
+    height: 311px;
+    border-radius: 20px;
+    display: flex;
+    padding: 20px;
+    margin: 50px 20px;
+}
